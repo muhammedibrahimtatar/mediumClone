@@ -1,0 +1,32 @@
+body{
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    overflow:scroll;
+    
+}
+.bg-yellow{
+    background-color: #ffc017; 
+}
+.border-bottom-dark{
+    border-bottom: 1px solid #222;
+}
+.text-black{
+    color: black;
+}
+.bg-color-black{
+    background-color: black;
+}
+.btn-round{
+    border-radius: 20px;
+    width: 180px;
+    padding:7px 20px 9px;
+    line-height: 20px;
+    font-size:16px;
+}
+
+.asside-buttons> li{
+    margin-bottom: 10px;
+}
+
+.border-top-dark{
+    border-top: 1px solid rgba(230,230,230,1) ;
+}
